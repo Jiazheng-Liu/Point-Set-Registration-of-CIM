@@ -44,9 +44,11 @@
 
 
 ### pixelError.m
-> Extract the coordinate information of the detected coastline from the .hdf into .mat
+>
+> Long-term sequence data analysis before and after error correction
 >
 
 ### gshhs_land_f.mat
+>
 > Global Self-consistent, Hierarchical, High-resolution Shoreline (GSHHS) data version 2.3.7 (June 15, 2017).
 >
